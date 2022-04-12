@@ -7,7 +7,7 @@ import seaborn as sns
 class helper():
     def __init__(self):
         pass
-    def dropcol(self, df,cols):
+    def dropcol(self, df, cols):
         return df.drop(cols, axis = 1, inplace = True)
 
     # we convert dates to datetime format
@@ -52,3 +52,4 @@ class helper():
     def DummyCol(self,df,columnsToEncode):
         df = pd.get_dummies(df,columns = columnsToEncode, drop_first=False)
         return df
+    
