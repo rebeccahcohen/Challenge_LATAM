@@ -16,10 +16,10 @@ synthetic_features.csv - agregando columnas solicitadas
 
 custom_df.csv - dataset preprocesado para aplicar los modelos
 
-### Python Files
+## Python Files
 
-## Preguntas 1, 2, 3
+### Preguntas 1, 2, 3
 data_analysis - análisis de los datos y feature transformation 
 
-## Preguntas 4, 5
+### Preguntas 4, 5
 modelos - desarrollo de los modelos, hyperparameter tuning y feature importance.
