@@ -52,6 +52,3 @@ class helper():
     def DummyCol(self,df,columnsToEncode):
         df = pd.get_dummies(df,columns = columnsToEncode, drop_first=False)
         return df
-
-    def sumatoria(self,a,b):
-        return a+b
