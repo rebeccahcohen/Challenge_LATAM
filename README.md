@@ -15,6 +15,8 @@ $ python -m pip install -r requirements.txt
 ### CSV
 
 dataset_SCL.csv - raw 
+
 synthetic_features.csv - agregando columnas solicitadas
+
 custom_df.csv - dataset preprocesado para aplicar los modelos
 
