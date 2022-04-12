@@ -19,7 +19,9 @@ custom_df.csv - dataset preprocesado para aplicar los modelos
 ## Python Files
 
 ### Preguntas 1, 2, 3
-data_analysis - análisis de los datos y feature transformation 
+data_analysis.ipynb - análisis de los datos y feature transformation 
 
 ### Preguntas 4, 5
-modelos - desarrollo de los modelos, hyperparameter tuning y feature importance.
+modelos.ipynb - desarrollo de los modelos, hyperparameter tuning y feature importance.
+
+helper.py - compuesta por una clase "helper" y métodos que ayudan a las distintas transformaciones 
