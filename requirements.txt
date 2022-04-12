@@ -4,3 +4,6 @@ scikit-learn
 datetime
 seaborn
 matplotlib
+xgboost
+imblearn
+scipy
